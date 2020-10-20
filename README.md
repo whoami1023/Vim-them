@@ -5,3 +5,6 @@
 
 ## step two:
 将 `.vimrc`文件覆盖`~/.vimrc`文件
+
+## step three:
+打开vim，输入PluginInstall
